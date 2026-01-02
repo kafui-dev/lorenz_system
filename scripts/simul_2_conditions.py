@@ -1,6 +1,4 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import lorenz_solutions as ls
+from scripts import lorenz_solutions as ls
 
 #------------------INITIALIZATION------------------
 # parameters
